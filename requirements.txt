@@ -1,0 +1,7 @@
+
+# Python 
+python-docx
+ollama
+pdfminer
+pdfminer.six
+docx

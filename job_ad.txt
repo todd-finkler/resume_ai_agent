@@ -1,0 +1,76 @@
+Position Description
+
+RAND's Meselson Center, part of the Global and Emerging Risks (GER) division, is seeking an accomplished technical leader to drive our ambitious AI cyber evaluation agenda. As Research Lead - AI Cyber Testing & Evaluation, you'll direct a comprehensive research portfolio focused on assessing the offensive cyber capabilities of frontier AI models.
+
+You will be responsible for managing significant research budgets and personnel, overseeing complex technical research and policy analysis projects, and leading multidisciplinary teams of policy researchers, engineers, and scientists. Your team will build systems to evaluate how AI models perform across the full attack lifecycle, including resource development, initial access, discovery, lateral movement, and defense evasion.
+
+Your projects may include developing benchmarks for fully autonomous operations using scaffolding and tools, as well as uplift of both novice and expert humans. Such benchmarks may involve environments like CTF challenges, frameworks for assessing ability to reason over attack graphs and conduct multi-stage operations, assessment of stealth and defense evasion capabilities, and benchmarks for ability to conduct time-sensitive operations at machine speed.
+
+Many of your evaluations will be commissioned directly by relevant government agencies, and the results of your evaluations will drive responsible AI policy across the world. Your team will communicate findings through detailed technical analyses, evaluation frameworks, and quick-turnaround policy briefs. Your work will shape recommendations for the White House, regulatory agencies, the intelligence community, other national governments, and industry leaders.
+
+This position is structured as a focused two-year appointment to create the urgency needed to drive ambitious change in this rapidly evolving field. Every day of your tenure will count toward achieving ambitious projects in AI security. The appointment may be renewed for an additional year, with options for longer-term employment at RAND thereafter.
+
+RAND's reputation for excellence is built on our commitment to high-quality, rigorous analysis and objectivity. As a Research Lead - AI Cyber Testing & Evaluation, you'll have access to RAND's leading researchers, extensive government and industry connections, and world-class analytical resources.
+
+Qualifications
+
+All research positions at RAND require excellent analytic skills; the ability to communicate clearly and effectively, both orally and in writing; the ability to work effectively as a member of a multi-disciplinary team; and a strong commitment to RAND's core values of quality and objectivity.
+
+Required
+
+6+ years of technical experience in security engineering, software engineering, firmware engineering, hardware engineering, or related fields
+6+ years of technical management experience, including leading cross-functional teams, managing project budgets, and mentoring and developing team members
+Demonstrated ability to successfully lead complex projects to completion
+Proficiency in Python, Java, C/C++, or other popular programming languages
+Experience with red team operations or offensive cyber capabilities development
+Ability to develop rigorous and comprehensive threat models and identify potential system vulnerabilities
+Strong ability to communicate effectively in English, both verbally and in writing
+Ability to work effectively in a collaborative, multidisciplinary environment
+Fluency with MS Office suite
+
+Preferred
+
+Graduate of the Computer Network Operations Development Program (CNODP), Remote Interactive Operator Training (RIOT), Future Operator Readiness Growth and Enrichment (FORGE), or equivalent experience
+Understanding of advanced persistent threat (APT) tactics, techniques, and procedures (TTPs) and experience with defending against them
+Ability to think creatively about offensive and/or defensive techniques and strategies, beyond compliance with existing regulations
+Experience working on AI research, ML model training, or model deployment
+
+Education Requirements
+
+RAND is hiring a Research Lead at either the specialist or expert level of experience. Minimum education requirements at the specialist level include:
+
+A PhD in Computer Science, Computer Engineering, Electrical Engineering, Cybersecurity, Information Security, Information Technology, Mathematics, Applied Mathematics, Physics, Applied Physics, Engineering Physics, Artificial Intelligence, Machine Learning, Engineering and Public Policy, Technology and Policy, National Security Policy, Policy Analysis, Political Science, International Relations, or similar with at least 3 years of relevant professional experience is required.
+
+OR
+
+A Master’s degree in the fields listed above with at least 6 years of relevant professional experience, is required.
+
+OR
+
+A Bachelor’s degree in the fields listed above with at least 8 years of relevant professional experience, is required.
+
+Master’s or PhD preferred.
+
+Security Clearance
+
+Ability to obtain and maintain a U.S. government clearance is preferred but not required.
+
+Location
+
+We are hiring for this position in San Francisco, CA; Washington, DC; Santa Monica, CA; Pittsburgh, PA; and Boston, MA. We offer a hybrid work arrangement, combining work from home and on-site options. Fully remote work will also be considered.
+
+Writing or Code Sample
+
+Either a writing sample or a code sample is required for this position. This sample can use a recent, previously written paper or technical report (e.g., journal article, master’s thesis or paper written for coursework, research project, technical analysis, briefings), or source code showing technical expertise in relevant domains.
+
+Term
+
+This position is a 2-year term appointment with a possibility of renewal for up to 3 years, alongside options for longer term employment.
+
+Salary Range: $137,000 - $246,600
+
+Visiting Technical Specialist = $137,000 - $209,000
+
+Visiting Technical Expert = $157,800 - $246,600
+
+RAND considers a variety of factors when formulating an offer, including but not limited to, the specific role and associated responsibilities; a candidate’s work experience, education/training, skills, expertise; and internal equity. Successful candidates will be offered employment in a specific title, as determined by the candidate’s education and experience. The salary range includes base pay plus RAND’s sabbatic pay (which provides additional compensation above base pay when vacation is taken). In addition, RAND provides strong benefits including health insurance coverage, life and disability insurance, savings plan, paid time-off and more.
